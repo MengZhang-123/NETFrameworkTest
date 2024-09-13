@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp18", "ConsoleApp1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E1552BDD-00EB-44AB-A9AB-E927CC273C05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{D88F10AE-C64D-44FE-80D7-DBDB04F89A63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterBranch", "WebApplication1\MasterBranch.csproj", "{D88F10AE-C64D-44FE-80D7-DBDB04F89A63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
